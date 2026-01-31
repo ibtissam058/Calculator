@@ -1,4 +1,4 @@
-# Calculator Web Application
+# 🧮 Calculator Web Application
 
 A sleek, responsive calculator web application built with HTML, CSS, and vanilla JavaScript. This calculator provides basic arithmetic operations with a clean, modern interface.
 
@@ -43,14 +43,6 @@ A sleek, responsive calculator web application built with HTML, CSS, and vanilla
 2. Use the operator buttons (+, -, *, /) to perform calculations
 3. Press the "Result" button to see the calculation result
 4. The current expression is displayed above the result
-
-## Keyboard Support
-
-- Numbers: 0-9
-- Operators: +, -, *, /
-- Enter: Calculate result
-- Backspace: Clear last digit (coming soon)
-- Escape: Clear all (coming soon)
 
 ## Screenshot
 
